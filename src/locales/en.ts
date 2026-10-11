@@ -1,0 +1,97 @@
+export const en = {
+  // Navigation & Brand
+  brandName: 'KalyanaSpace',
+  tagline: 'Karnataka\'s Premier Wedding Venue Marketplace',
+  navExplore: 'Explore Halls',
+  navHowItWorks: 'How It Works',
+  navCompare: 'Compare',
+  navFavorites: 'Favorites',
+  navMyEnquiries: 'My Enquiries',
+  navOwnerPortal: 'Owner Portal',
+  navAdminPortal: 'Admin Portal',
+  navSignIn: 'Sign In',
+  navSignOut: 'Sign Out',
+  navAccount: 'Account',
+
+  // Hero & Search
+  heroTitle: 'Find the Right Wedding Hall for Your Special Day',
+  heroSubtitle: 'Discover, compare and connect with verified kalyana mantapas, luxury banquet halls, and heritage palace venues across Karnataka.',
+  searchCityPlaceholder: 'Select City / Location',
+  searchDatePlaceholder: 'Event Date',
+  searchGuestsPlaceholder: 'No. of Guests',
+  searchBudgetPlaceholder: 'Max Budget (₹)',
+  searchButton: 'Search Halls',
+  popularCities: 'Popular Locations:',
+
+  // Categories
+  catAll: 'All Venues',
+  catTraditional: 'Traditional Kalyana Mantapa',
+  catLuxury: 'Luxury Convention Hall',
+  catModern: 'Modern Banquet Hall',
+  catHeritage: 'Heritage Palace & Lawns',
+  catResort: 'Resort & Destination Venue',
+  catCommunity: 'Community & Mini Hall',
+
+  // Venue Card
+  startingFrom: 'Starting from',
+  perDay: 'per day',
+  viewDetails: 'View Details',
+  quickEnquiry: 'Quick Enquiry',
+  verified: 'Verified Venue',
+  guests: 'Guests',
+  dining: 'Dining',
+  rooms: 'Rooms',
+  parking: 'Parking',
+  pureVeg: 'Pure Veg Only',
+  vegNonVeg: 'Veg & Non-Veg',
+
+  // Filters
+  filterHeading: 'Filter Venues',
+  filterCity: 'City',
+  filterPriceRange: 'Price Range',
+  filterGuestCapacity: 'Guest Capacity',
+  filterVenueType: 'Venue Category',
+  filterAC: 'Central AC Available',
+  filterParkingAvail: 'Dedicated Car Parking',
+  filterVerifiedOnly: 'Verified Venues Only',
+  filterRating: 'Minimum Rating',
+  clearAll: 'Clear All Filters',
+  resultsFound: 'venues found in Karnataka',
+  sortBy: 'Sort By',
+  sortRecommended: 'Recommended',
+  sortPriceAsc: 'Price: Low to High',
+  sortPriceDesc: 'Price: High to Low',
+  sortRating: 'Highest Rated',
+  sortCapacityDesc: 'Capacity: High to Low',
+
+  // Details Page
+  sendEnquiryHeading: 'Enquire for Date & Availability',
+  enquiryDisclaimer: 'Note: Booking availability is subject to direct confirmation by the venue owner.',
+  formFullName: 'Full Name',
+  formEmail: 'Email Address',
+  formPhone: 'Phone Number',
+  formEventType: 'Event Type',
+  formEventDate: 'Preferred Event Date',
+  formGuestCount: 'Expected Guests',
+  formBudget: 'Estimated Budget (₹)',
+  formNotes: 'Additional Requirements or Timings',
+  submitEnquiryBtn: 'Send Free Enquiry',
+  enquirySubmittedSuccess: 'Enquiry Submitted Successfully!',
+  demoConfirmationNotice: 'Demo Notice: Your enquiry has been recorded in the local demo database. The hall owner can view this in their portal.',
+
+  // Statuses
+  statusNew: 'New',
+  statusContacted: 'Contacted',
+  statusVisitScheduled: 'Visit Scheduled',
+  statusQuotationShared: 'Quotation Shared',
+  statusConverted: 'Confirmed / Converted',
+  statusClosed: 'Closed',
+  statusWithdrawn: 'Withdrawn',
+
+  // Common UI
+  loading: 'Loading...',
+  backToVenues: 'Back to Venues',
+  listYourVenue: 'Are you a Venue Owner? List your hall',
+  footerCopyright: '© 2025 KalyanaSpace Technologies. Built for Karnataka weddings.',
+  demoNotice: 'Demo Mode: All data is saved in local browser storage for evaluation.'
+};
